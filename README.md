@@ -1,3 +1,3 @@
 # Cyn-Rent-a-Car
-**Kurumsal araç kiralama web sitesi projesidir. ** </br>
+**Kurumsal araç kiralama web sitesi projesidir.** </br>
 
