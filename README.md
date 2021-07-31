@@ -1,3 +1,3 @@
 # Cyn-Rent-a-Car
-**Kurumsal araç kiralama web sitesi projesidir.** </br>
+**Bootstrap kullanılarak kurumsal araç kiralama üzerine yaptığım bir web projesidir.** </br>
 
